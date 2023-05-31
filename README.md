@@ -2,7 +2,7 @@
 
 ```sh
 # Download the model
-$ wget https://drive.google.com/file/d/1EXwzD1GBmJd9pxJG7ygYTYNX4ZoC1myw/view?usp=sharing -o best.pt
+$ wget "https://drive.google.com/file/d/1EXwzD1GBmJd9pxJG7ygYTYNX4ZoC1myw" -O best.pt
 ```
 
 ```sh
